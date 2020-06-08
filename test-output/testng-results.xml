@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-07T05:24:53Z" name="GroupSuite" finished-at="2020-03-07T05:25:32Z" duration-ms="38986">
+    <groups>
+    </groups>
+    <test started-at="2020-03-07T05:24:53Z" name="WBLFramework" finished-at="2020-03-07T05:25:32Z" duration-ms="38986">
+      <class name="com.wbl.qa.testcases.HomePageLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbl.qa.testcases.HomePageLoginTest@1e802ef9]" started-at="2020-03-06T21:24:53Z" name="setUp" finished-at="2020-03-06T21:24:58Z" duration-ms="5204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageTitleTest()[pri:0, instance:com.wbl.qa.testcases.HomePageLoginTest@1e802ef9]" started-at="2020-03-06T21:24:58Z" name="HomePageTitleTest" finished-at="2020-03-06T21:24:58Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wbl.qa.testcases.HomePageLoginTest@1e802ef9]" started-at="2020-03-06T21:24:58Z" name="tearDown" finished-at="2020-03-06T21:24:59Z" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbl.qa.testcases.HomePageLoginTest@1e802ef9]" started-at="2020-03-06T21:24:59Z" name="setUp" finished-at="2020-03-06T21:25:05Z" duration-ms="6005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.wbl.qa.testcases.HomePageLoginTest@1e802ef9]" started-at="2020-03-06T21:25:05Z" name="loginTest" finished-at="2020-03-06T21:25:06Z" duration-ms="1818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wbl.qa.testcases.HomePageLoginTest@1e802ef9]" started-at="2020-03-06T21:25:06Z" name="tearDown" finished-at="2020-03-06T21:25:07Z" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wbl.qa.testcases.HomePageLoginTest -->
+      <class name="com.wbl.qa.testcases.MyAccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbl.qa.testcases.MyAccountPageTest@2b6faea6]" started-at="2020-03-06T21:25:14Z" name="setUp" finished-at="2020-03-06T21:25:21Z" duration-ms="7037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.wbl.qa.testcases.MyAccountPageTest@2b6faea6]" started-at="2020-03-06T21:25:21Z" name="loginTest" finished-at="2020-03-06T21:25:21Z" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="verifyAccountPageTest()[pri:0, instance:com.wbl.qa.testcases.MyAccountPageTest@2b6faea6]" started-at="2020-03-06T21:25:21Z" name="verifyAccountPageTest" finished-at="2020-03-06T21:25:22Z" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountPageTest -->
+        <test-method signature="verifyContactsClickTest()[pri:0, instance:com.wbl.qa.testcases.MyAccountPageTest@2b6faea6]" started-at="2020-03-06T21:25:22Z" name="verifyContactsClickTest" finished-at="2020-03-06T21:25:23Z" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsClickTest -->
+        <test-method signature="verifyCalendarTest()[pri:0, instance:com.wbl.qa.testcases.MyAccountPageTest@2b6faea6]" started-at="2020-03-06T21:25:23Z" name="verifyCalendarTest" finished-at="2020-03-06T21:25:23Z" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCalendarTest -->
+        <test-method signature="verifyImageTest()[pri:0, instance:com.wbl.qa.testcases.MyAccountPageTest@2b6faea6]" started-at="2020-03-06T21:25:23Z" name="verifyImageTest" finished-at="2020-03-06T21:25:23Z" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wbl.qa.testcases.MyAccountPageTest@2b6faea6]" started-at="2020-03-06T21:25:23Z" name="tearDown" finished-at="2020-03-06T21:25:23Z" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wbl.qa.testcases.MyAccountPageTest -->
+      <class name="com.wbl.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbl.qa.testcases.LoginPageTest@7f010382]" started-at="2020-03-06T21:25:07Z" name="setUp" finished-at="2020-03-06T21:25:13Z" duration-ms="6095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.wbl.qa.testcases.LoginPageTest@7f010382]" started-at="2020-03-06T21:25:13Z" name="loginTest" finished-at="2020-03-06T21:25:13Z" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wbl.qa.testcases.LoginPageTest@7f010382]" started-at="2020-03-06T21:25:13Z" name="tearDown" finished-at="2020-03-06T21:25:14Z" duration-ms="616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wbl.qa.testcases.LoginPageTest -->
+      <class name="com.wbl.qa.testcases.ContactPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.wbl.qa.testcases.ContactPageTest@56de5251]" started-at="2020-03-06T21:25:23Z" name="setUp" finished-at="2020-03-06T21:25:30Z" duration-ms="7335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="editSingleSelectTest()[pri:0, instance:com.wbl.qa.testcases.ContactPageTest@56de5251]" started-at="2020-03-06T21:25:30Z" name="editSingleSelectTest" finished-at="2020-03-06T21:25:30Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editSingleSelectTest -->
+        <test-method signature="verifyContactsLblTest()[pri:0, instance:com.wbl.qa.testcases.ContactPageTest@56de5251]" started-at="2020-03-06T21:25:30Z" name="verifyContactsLblTest" finished-at="2020-03-06T21:25:30Z" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsLblTest -->
+        <test-method signature="selectMultipleContactsTest()[pri:0, instance:com.wbl.qa.testcases.ContactPageTest@56de5251]" started-at="2020-03-06T21:25:30Z" name="selectMultipleContactsTest" finished-at="2020-03-06T21:25:31Z" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMultipleContactsTest -->
+        <test-method signature="selectSingleContactsTest()[pri:0, instance:com.wbl.qa.testcases.ContactPageTest@56de5251]" started-at="2020-03-06T21:25:31Z" name="selectSingleContactsTest" finished-at="2020-03-06T21:25:31Z" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectSingleContactsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.wbl.qa.testcases.ContactPageTest@56de5251]" started-at="2020-03-06T21:25:31Z" name="tearDown" finished-at="2020-03-06T21:25:32Z" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wbl.qa.testcases.ContactPageTest -->
+    </test> <!-- WBLFramework -->
+  </suite> <!-- GroupSuite -->
+</testng-results>

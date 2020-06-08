@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GroupSuite]">
+  <test name="WBLFramework(failed)">
+    <classes>
+      <class name="com.wbl.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.wbl.qa.testcases.LoginPageTest -->
+      <class name="com.wbl.qa.testcases.MyAccountPageTest">
+        <methods>
+          <include name="verifyAccountPageTest"/>
+        </methods>
+      </class> <!-- com.wbl.qa.testcases.MyAccountPageTest -->
+      <class name="com.wbl.qa.testcases.HomePageLoginTest">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.wbl.qa.testcases.HomePageLoginTest -->
+    </classes>
+  </test> <!-- WBLFramework(failed) -->
+</suite> <!-- Failed suite [GroupSuite] -->
